@@ -2,7 +2,6 @@
 ```markdown
 ### Cryptocurrency Integration
 AfricaCryptoChainx aims to introduce its own native coins alongside established cryptocurrencies to support financial inclusion and DeFi functionalities in Africa. Potential coin names include:
-
 - AfricaCryptoChainx Coin (ACC)
 - Africoin (AFR)
 - AfroToken (AFT)
@@ -47,7 +46,6 @@ AfricaCryptoChainx aims to introduce its own native coins alongside established 
 - Citadel Token (CTT)
 - Foundation Coin (FDT)
 - Legacy Token (LGC)
-
 These native coins will facilitate secure and accessible financial services tailored for African communities, promoting economic empowerment and sustainable development.
 
 ### Trading and Exchange
