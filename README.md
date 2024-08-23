@@ -102,7 +102,11 @@ Our mission with AfricaCryptoChainx is to empower Africa through blockchain tech
   - African-based coins (e.g., Akoin)
   - BakeryToken (BAKE)
   - My Neighbour Alice (ALICE)
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=ccxt/ccxt,Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&type=Timeline)](https://star-history.com/#ccxt/ccxt&Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&Timeline)https://opencollective.com/teachmastermindpat## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ccxt/ccxt,Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&type=Timeline)](https://star-history.com/#ccxt/ccxt&Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&Timeline)https://x.com/Cryptorollermin?t=LqCli7-WGitXJQsRrDwLDw&s=09https://github.com/Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation
 
 ```markdown
 ### Cryptocurrency Integration
@@ -152,6 +156,11 @@ AfricaCryptoChainx aims to introduce its own native coins alongside established 
 - Citadel Token (CTT)
 - Foundation Coin (FDT)
 - Legacy Token (LGC)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ccxt/ccxt,Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&type=Timeline)](https://star-history.com/#ccxt/ccxt&Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&Timeline)https://opencollective.com/teachmastermindpat## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ccxt/ccxt,Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&type=Timeline)](https://star-history.com/#ccxt/ccxt&Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&Timeline)https://x.com/Cryptorollermin?t=LqCli7-WGitXJQsRrDwLDw&s=09https://github.com/Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation
 https://github.com/Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git```sql
 SELECT * FROM your_table
 WHERE keyword IN ('Alien Innovation', 'Blockchain', 'Cryptocurrency', 'Data Privacy', 'Security')
@@ -1127,4 +1136,111 @@ Current feature list:
 | [![gate](https://user-images.githubusercontent.com/1294454/31784029-0313c702-b509-11e7-9ccc-bc0da6a0e435.jpg)](https://www.gate.io/signup/2436035)                                                            | gate                  | [Gate.io](https://www.gate.io/signup/2436035)                                                         | [![API Version 4](https://img.shields.io/badge/4-lightgray)](https://www.gate.io/docs/developers/apiv4/en/)                   | cex  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with Gate.io using CCXT's referral link for a 20% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d20%25&color=orange)](https://www.gate.io/signup/2436035)                                                         |
 | [![htx](https://user-images.githubusercontent.com/1294454/76137448-22748a80-604e-11ea-8069-6e389271911d.jpg)](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) | htx                   | [HTX](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://huobiapi.github.io/docs/spot/v1/en/)                     | cex  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with HTX using CCXT's referral link for a 15% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d15%25&color=orange)](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) |
 | [![kucoin](https://user-images.githubusercontent.com/51840849/87295558-132aaf80-c50e-11ea-9801-a2fb0c57c799.jpg)](https://www.kucoin.com/ucenter/signup?rcode=E5wkqe)                                         | kucoin                | [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=E5wkqe)                                          | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.kucoin.com)                                         | cex  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                                                                                                                                                                                                                                                |
-| [![kucoinfutures](https://user-images.githubusercontent.com/1294454/147508995-9e35030a-d046-43a1-a006-6fabd981b554.jpg)](https://futures.kucoin.com/?rcode=E5wkqe)                                            | kucoinfutures         | [KuCoin Futures](https://futures.kucoin.com/?rcode=E5wkqe)                                            | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.kucoin.com/futures)                                 | cex  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                     
+| [![kucoinfutures](https://user-images.githubusercontent.com/1294454/147508995-9e35030a-d046-43a1-a006-6fabd981b554.jpg)](https://futures.kucoin.com/?rcode=E5wkqe)                                            | kucoinfutures         | [KuCoin Futures](https://futures.kucoin.com/?rcode=E5wkqe)                                            | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.kucoin.com/futures)                                 | cex  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |              ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ccxt/ccxt,Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&type=Timeline)](https://star-history.com/#ccxt/ccxt&Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&Timeline)https://opencollective.com/teachmastermindpat## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ccxt/ccxt,Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&type=Timeline)](https://star-history.com/#ccxt/ccxt&Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation.git&Timeline)https://x.com/Cryptorollermin?t=LqCli7-WGitXJQsRrDwLDw&s=09https://github.com/Africacryptochainx-Com/AfricaCryptoChainx_Project_Documentation```Dockerfile
+# Source: https://github.com/dotnet/dotnet-docker
+FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-jammy as build
+
+ARG TARGETOS
+ARG TARGETARCH
+ARG RUNNER_VERSION
+ARG RUNNER_CONTAINER_HOOKS_VERSION=0.6.0
+ARG DOCKER_VERSION=25.0.4
+ARG BUILDX_VERSION=0.13.1
+
+# Combine apt update and install to reduce layers
+RUN apt update -y && apt install -y curl unzip && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /actions-runner
+
+# Download and extract GitHub Actions Runner based on architecture
+RUN export RUNNER_ARCH=${TARGETARCH} \
+    && [ "$RUNNER_ARCH" = "amd64" ] && RUNNER_ARCH=x64 \
+    || true \
+    && curl -f -L -o runner.tar.gz https://github.com/actions/runner/releases/download/v${RUNNER_VERSION}/actions-runner-${TARGETOS}-${RUNNER_ARCH}-${RUNNER_VERSION}.tar.gz \
+    && tar xzf runner.tar.gz \
+    && rm runner.tar.gz
+
+# Download and extract GitHub Actions Container Hooks
+RUN curl -f -L -o runner-container-hooks.zip https://github.com/actions/runner-container-hooks/releases/download/v${RUNNER_CONTAINER_HOOKS_VERSION}/actions-runner-hooks-k8s-${RUNNER_CONTAINER_HOOKS_VERSION}.zip \
+    && unzip runner-container-hooks.zip -d ./k8s \
+    && rm runner-container-hooks.zip
+
+# Download Docker and Buildx plugin based on architecture
+RUN export DOCKER_ARCH=${TARGETARCH} \
+    && [ "$DOCKER_ARCH" = "amd64" ] && DOCKER_ARCH=x86_64 \
+    || [ "$DOCKER_ARCH" = "arm64" ] && DOCKER_ARCH=aarch64 \
+    && curl -fLo docker.tgz https://download.docker.com/${TARGETOS}/static/stable/${DOCKER_ARCH}/docker-${DOCKER_VERSION}.tgz \
+    && tar zxvf docker.tgz \
+    && rm docker.tgz \
+    && mkdir -p /usr/local/lib/docker/cli-plugins \
+    && curl -fLo /usr/local/lib/docker/cli-plugins/docker-buildx "https://github.com/docker/buildx/releases/download/v${BUILDX_VERSION}/buildx-v${BUILDX_VERSION}.linux-${TARGETARCH}" \
+    && chmod +x /usr/local/lib/docker/cli-plugins/docker-buildx
+
+FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-jammy
+
+# Set environment variables
+ENV DEBIAN_FRONTEND=noninteractive
+ENV RUNNER_MANUALLY_TRAP_SIG=1
+ENV ACTIONS_RUNNER_PRINT_LOG_TO_STDOUT=1
+ENV ImageOS=ubuntu22
+
+# Install necessary dependencies for Git and add the Git PPA
+RUN apt update -y \
+    && apt install -y --no-install-recommends sudo lsb-release gpg-agent software-properties-common \
+    && add-apt-repository ppa:git-core/ppa \
+    && apt update -y \
+    && rm -rf /var/lib/apt/lists/*
+
+# Add a non-root user and configure sudo permissions
+RUN adduser --disabled-password --gecos "" --uid 1001 runner \
+    && groupadd docker --gid 123 \
+    && usermod -aG sudo runner \
+    && usermod -aG docker runner \
+    && echo "%sudo   ALL=(ALL:ALL) NOPASSWD:ALL" > /etc/sudoers \
+    && echo "Defaults env_keep += \"DEBIAN_FRONTEND\"" >> /etc/sudoers
+
+WORKDIR /home/runner
+
+# Copy the runner and docker components from the build stage
+COPY --chown=runner:docker --from=build /actions-runner .
+COPY --from=build /usr/local/lib/docker/cli-plugins/docker-buildx /usr/local/lib/docker/cli-plugins/docker-buildx
+
+# Install Docker binaries and clean up unnecessary files
+RUN install -o root -g root -m 755 docker/* /usr/bin/ && rm -rf docker
+
+# Switch to the non-root user for running the container
+USER runner
+```
+
+### Changes Made:
+1. **Layer Efficiency**:
+   - Combined multiple `RUN` commands where possible to reduce the number of layers in the final image.
+   - Cleaned up the `apt` lists after installation to minimize the image size.
+   
+2. **Logical Flow**:
+   - Simplified `RUNNER_ARCH` and `DOCKER_ARCH` selection using conditional statements.
+   
+3. **Docker and Buildx**:
+   - Consolidated Docker and Buildx plugin download and installation into a single `RUN` statement.
+![star-history-2024823](https://github.com/user-attachments/assets/0e5a6efe-49b4-4fc7-9a04-45a517666071)
+[202408-22-africacryptochainxinnovators-teachmastermindpat-cd262bf6.csv](https://github.com/user-attachments/files/16731074/202408-22-africacryptochainxinnovators-teachmastermindpat-cd262bf6.csv)
+[20240822-teachmastermindpat-cd262bf6-members-all (1).csv](https://github.com/user-attachments/files/16731075/20240822-teachmastermindpat-cd262bf6-members-all.1.csv)
+[20240822-teachmastermindpat-cd262bf6-members-all.csv](https://github.com/user-attachments/files/16731076/20240822-teachmastermindpat-cd262bf6-members-all.csv)
+[202408-21-africacryptochainxinnovators-teachmastermindpat-cd262bf6.csv](https://github.com/user-attachments/files/16731077/202408-21-africacryptochainxinnovators-teachmastermindpat-cd262bf6.csv)
+[-AfricaCryptoChainx-Project-Documentation-_TeachMastermindPat_c090eaf68b04a2d5afe9daaf4c9d2689999b3f1a.json](https://github.com/user-attachments/files/16731090/-AfricaCryptoChainx-Project-Documentation-_TeachMastermindPat_c090eaf68b04a2d5afe9daaf4c9d2689999b3f1a.json)
+[TeachMastermindPat--main.zip](https://github.com/user-attachments/files/16731091/TeachMastermindPat--main.zip)
+[AfricaCryptoCryptoChainx.CI.and.Project.Guidelines.json](https://github.com/user-attachments/files/16731092/AfricaCryptoCryptoChainx.CI.and.Project.Guidelines.json)
+[gitlab-v1.2.0.zip](https://github.com/user-attachments/files/16731093/gitlab-v1.2.0.zip)
+[AfricaCryptoChainx.Comskills-introduction-to-github_TeachMastermindPat_547d8cd0d017f156e8c778e197bd8f8d3f264099.json](https://github.com/user-attachments/files/16731095/AfricaCryptoChainx.Comskills-introduction-to-github_TeachMastermindPat_547d8cd0d017f156e8c778e197bd8f8d3f264099.json)
+[user_archive-Teachmastermindpat-240625-135053-1167 (1).zip](https://github.com/user-attachments/files/16731096/user_archive-Teachmastermindpat-240625-135053-1167.1.zip)
+[README.md](https://github.com/user-attachments/files/16731097/README.md)
+[AfricaCryptoCryptoChainx CI and Project Guidelines.json](https://github.com/user-attachments/files/16731098/AfricaCryptoCryptoChainx.CI.and.Project.Guidelines.json)
+[AfricaCryptoChainx.Com1.pdf](https://github.com/user-attachments/files/16731099/AfricaCryptoChainx.Com1.pdf)
+[Shielding the Future Europe Cybersecurity Readiness.pdf](https://github.com/user-attachments/files/16731100/Shielding.the.Future.Europe.Cybersecurity.Readiness.pdf)
+[Dockerfile.txt](https://github.com/user-attachments/files/16731101/Dockerfile.txt)
+[export-Africacryptochainx-Com-1712355337 (3).json](https://github.com/user-attachments/files/16731102/export-Africacryptochainx-Com-1712355337.3.json)
+[Robot - Wikipedia.pdf](https://github.com/user-attachments/files/16731103/Robot.-.Wikipedia.pdf)       
