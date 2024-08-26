@@ -635,7 +635,7 @@ AfricaCryptoChainx.Com is committed to driving positive change by providing secu
 - **Access Control**: Implement mechanisms for full access control over the project account and project resources.
 
 ### Funding
-AfricaCryptoChainx.Com is seeking one-time funding between $50,000 to $100,000 to:
+AfricaCryptoChainx.Com is seeking one-time funding between $100,000 to $150,000 to $200.000 to $500.000 to:
 - Deploy secure infrastructure.
 - Integrate with local P2P networks.
 - Implement advanced security measures.
@@ -768,31 +768,31 @@ To contribute to AfricaCryptoChainx.Com and explore our CI workflow, follow thes
 - Integration with l### README.md
 ### 1. **Budget Allocation**
 
-1. **Secure Infrastructure (₦30,000 - ₦40,000)**
+1. **Secure Infrastructure (₦40,000 - ₦50,000)**
    - **Server Costs**: Hosting, cloud services.
    - **Security Tools**: SSL certificates, firewalls.
 
-2. **P2P Network Integration (₦20,000 - ₦25,000)**
+2. **P2P Network Integration (₦25,000 - ₦30,000)**
    - **Integration Fees**: Costs for connecting with local P2P networks.
    - **API Development**: Building and maintaining integration APIs.
 
-3. **Advanced Security Measures (₦15,000 - ₦20,000)**
+3. **Advanced Security Measures (₦20,000 - ₦25,000)**
    - **Security Audits**: Regular security reviews and vulnerability assessments.
    - **Security Tools**: Anti-fraud and monitoring systems.
 
-4. **User Interface Development (₦15,000 - ₦20,000)**
+4. **User Interface Development (₦20,000 - ₦25,000)**
    - **Design and Development**: UI/UX design, front-end development.
    - **Testing**: User experience and usability testing.
 
-5. **Educational Resources (₦10,000 - ₦15,000)**
+5. **Educational Resources (₦15,000 - ₦20,000)**
    - **Content Creation**: Guides, tutorials, and support documents.
    - **Translation Services**: Localization for different African languages.
 
-6. **Community Building (₦10,000 - ₦15,000)**
+6. **Community Building (₦15,000 - ₦20,000)**
    - **Marketing**: Social media campaigns, community outreach.
    - **Events**: Webinars, meetups.
 
-7. **DeFi Functionalities (₦10,000 - ₦15,000)**
+7. **DeFi Functionalities (₦15,000 - ₦20,000)**
    - **Integration**: Adding DeFi features like staking, lending.
    - **Development**: Building smart contracts and DeFi protocols.
 
